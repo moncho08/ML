@@ -73,14 +73,14 @@
         <section id="blog">
             <div class="blog-post">
                 <h2>Mi primera entrada</h2>
-                <p>Bienvenido a mi blog personal. Aquí compartiré mis pensamientos, experiencias y más. ¡Gracias por visitar!</p>
+                <p>Bienvenido a mi blog. Aquí compartiré mis, experiencias y más. ¡Gracias por visitar!</p>
             </div>
             <!-- Puedes agregar más entradas de blog aquí -->
         </section>
 
         <section id="about-me" class="about-me">
             <h2>Sobre mí</h2>
-            <p>Hola, soy Ramón Luevano. Me apasiona la cocina, la música, y compartir mis ideas a través de este blog. ¡Espero que disfrutes de la lectura!</p>
+            <p>Hola, soy Ramón Luevano. Me apasiona la música, y compartir mis ideas a través de este blog. ¡Espero que disfrutes de la lectura!</p>
         </section>
     </div>
 
